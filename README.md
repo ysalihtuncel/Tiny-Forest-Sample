@@ -1,5 +1,5 @@
-# ForestShooter
- ForestShooter Sample
+# Tiny Forest Sample
+ Tiny Forest Sample
  
  Unity verison 2019.4.161f
  
